@@ -15,7 +15,7 @@
 
 ## 👋 Who we are
 
-We are **[TheGiks]** — a tech company building smart, scalable digital products for modern businesses. We craft beautiful websites, powerful software, stunning graphics, and provide end-to-end tech consulting to help our clients grow.
+We are **TheGiks** — a tech company building smart, scalable digital products for modern businesses. We craft beautiful websites, powerful software, stunning graphics, and provide end-to-end tech consulting to help our clients grow.
 
 ---
 
@@ -40,7 +40,7 @@ We are **[TheGiks]** — a tech company building smart, scalable digital product
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-> **Note:** Replace these badges with the technologies your team actually uses.
+> **Note:** Home of Technology.
 
 ---
 
