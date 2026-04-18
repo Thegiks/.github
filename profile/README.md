@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace the initials below with your logo: ![Logo](./assets/logo.png) -->
-# Your Company
+# TheGiks
 
 **Software · Websites · Graphics · Consulting**
 
@@ -15,7 +15,7 @@
 
 ## 👋 Who we are
 
-We are **[Your Company Name]** — a tech company building smart, scalable digital products for modern businesses. We craft beautiful websites, powerful software, stunning graphics, and provide end-to-end tech consulting to help our clients grow.
+We are **[TheGiks]** — a tech company building smart, scalable digital products for modern businesses. We craft beautiful websites, powerful software, stunning graphics, and provide end-to-end tech consulting to help our clients grow.
 
 ---
 
@@ -24,7 +24,7 @@ We are **[Your Company Name]** — a tech company building smart, scalable digit
 | | Service | Description |
 |---|---|---|
 | 💻 | **Software Development** | Web apps, APIs & SaaS products built to scale |
-| 🌐 | **Websites** | Fast, responsive & conversion-focused web presence |
+| 🌐 | **Website Development** | Fast, responsive & conversion-focused web presence |
 | 🎨 | **Graphics & Design** | Branding, UI/UX & visual design that stands out |
 | 🤝 | **Consulting** | Tech strategy, architecture & advisory services |
 
@@ -46,8 +46,8 @@ We are **[Your Company Name]** — a tech company building smart, scalable digit
 
 ## 📬 Get in touch
 
-- 📧 **Email:** hello@yourcompany.com
-- 🌍 **Website:** [www.yourcompany.com](https://www.yourcompany.com)
+- 📧 **Email:** info@thegiks.co.ke
+- 🌍 **Website:** [www.thegiks.co.ke](https://www.thegiks.co.ke)
 - 🐦 **Twitter/X:** [@yourcompany](https://twitter.com/yourcompany)
 - 💼 **LinkedIn:** [/company/yourcompany](https://linkedin.com/company/yourcompany)
 
