@@ -48,8 +48,6 @@ We are **TheGiks** — a tech company building smart, scalable digital products 
 
 - 📧 **Email:** info@thegiks.co.ke
 - 🌍 **Website:** [www.thegiks.co.ke](https://www.thegiks.co.ke)
-- 🐦 **Twitter/X:** [@yourcompany](https://twitter.com/yourcompany)
-- 💼 **LinkedIn:** [/company/yourcompany](https://linkedin.com/company/yourcompany)
 
 ---
 
